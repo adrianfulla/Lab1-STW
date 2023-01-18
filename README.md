@@ -8,3 +8,6 @@
 
 3. (10 puntos) ¿Cómo pide auxilio una vaca paranoica?
 ![image](https://user-images.githubusercontent.com/84196543/213060613-48bc9f3a-9e39-46d7-a294-5c209dc15cdf.png)
+
+4. (10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+![image](https://user-images.githubusercontent.com/84196543/213061382-00909595-ad2e-428c-a176-f6d2409ecbdb.png)
