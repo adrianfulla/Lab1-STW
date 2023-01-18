@@ -6,3 +6,5 @@
 2. (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
 ![image](https://user-images.githubusercontent.com/84196543/213060200-5da7ede1-b39c-45d0-b44f-7067e1bef60b.png)
 
+3. (10 puntos) ¿Cómo pide auxilio una vaca paranoica?
+![image](https://user-images.githubusercontent.com/84196543/213060613-48bc9f3a-9e39-46d7-a294-5c209dc15cdf.png)
